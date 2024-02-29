@@ -1,0 +1,2 @@
+Dependent job ran at:  Wed Feb 28 21:41:07 EST 2024 after failure
+/bin/rm: cannot remove '/local/scratch/9806913': Permission denied

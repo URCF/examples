@@ -1,0 +1,3 @@
+Main job started at:  Wed Feb 28 21:40:28 EST 2024
+slurmstepd: error: *** JOB 9806911 ON node045 CANCELLED AT 2024-02-28T21:41:05 ***
+/bin/rm: cannot remove '/local/scratch/9806911': Permission denied
